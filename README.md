@@ -4,7 +4,7 @@ I'm a medical doctor and PhD student in AI for Health at Imperial College London
 
 I'm building [Singularity Health](https://www.singularity-health.io), an AI search tool for retrieving medical data.
 
-I also hosted [The Computational Medicine Podcast](https://open.spotify.com/show/3HusiGdATbicaW4pdRAxF9?si=035c5199d8df4e38), have a [YouTube channel](https://www.youtube.com/@Dr_AlexDavidson) and write at (www.alexdavidson.me)[https://www.alexdavidson.me/blog/]. 
+I also hosted [The Computational Medicine Podcast](https://open.spotify.com/show/3HusiGdATbicaW4pdRAxF9?si=035c5199d8df4e38), have a [YouTube channel](https://www.youtube.com/@Dr_AlexDavidson) and write at [www.alexdavidson.me](https://www.alexdavidson.me/blog/). 
 
 ---
 
