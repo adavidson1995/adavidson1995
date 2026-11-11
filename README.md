@@ -10,6 +10,8 @@ My PhD is hosted at the [Institute of Global Health Innovation](https://www.impe
 
 My thesis focuses on using deep learning to create vision language models to calculate risk of patients with Multiple Sclerosis converting from relapsing remitting to secondary progressive.
 
+I also hosted [The Computational Medicine Podcast](https://open.spotify.com/show/3HusiGdATbicaW4pdRAxF9?si=035c5199d8df4e38), have a [YouTube channel](https://www.youtube.com/@Dr_AlexDavidson) and write at [www.alexdavidson.me](https://www.alexdavidson.me/blog/). 
+
 ---
 
 <p align="center">
@@ -20,6 +22,7 @@ My thesis focuses on using deep learning to create vision language models to cal
   <a href="https://substack.com/@alexdavidson"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" /></a>
   <a href="https://medium.com/@alexdavidson1995"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://scholar.google.com/citations?user=your_google_scholar_id"><img src="https://img.shields.io/badge/Papers-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
+  <a href="https://open.spotify.com/show/4884NkYe1d0YxDn3mDOsAR"><img src="https://img.shields.io/badge/Podcast-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
 </p>
 
 ---
