@@ -1,10 +1,8 @@
 ### Hi! I’m Alex Davidson.
 
-I'm a PhD student in AI for Health at Imperial College London.
+I'm a medical doctor and PhD student in AI for Health at Imperial College London.
 
 I'm building [Singularity Health](https://www.singularity-health.io), an AI search tool for retrieving medical data.
-
-I completed my medical degree in 2019 and worked as a doctor in the NHS from 2019 to 2024. 
 
 My PhD is hosted at the [Institute of Global Health Innovation](https://www.imperial.ac.uk/global-health-innovation/) and my supervisors are [Professor Lord Darzi](https://en.wikipedia.org/wiki/Ara_Darzi,_Baron_Darzi_of_Denham), [Hutan Ashrafian](https://en.wikipedia.org/wiki/Hutan_Ashrafian) and [James Teo](https://kclpure.kcl.ac.uk/portal/en/persons/james.teo).
 
